@@ -7,7 +7,7 @@ const tick = 200;
 const blinkerConfig = [
     [0, 0, 0],
     [1, 1, 1],
-    [0, 0, 0],
+    [0, 0, 0]
 ];
 
 const gliderConfig = [
@@ -21,7 +21,7 @@ const customConfig = [
     [0, 1, 1, 1, 0],
     [0, 0, 0, 1, 0],
     [0, 0, 0, 1, 0],
-    [0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0]
 ];
 
 const gosperGunConfig = [
